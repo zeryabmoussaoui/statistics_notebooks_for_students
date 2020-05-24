@@ -7,7 +7,7 @@ A collection of personnal Statistics and Machine Learning jupyter notebooks that
 ## Requirements
 
 * Jupyter Notebook
-* Specific Language Kernel (see How-To)
+* Specific Language Kernel
 
 ## (Almost) all about 
 
